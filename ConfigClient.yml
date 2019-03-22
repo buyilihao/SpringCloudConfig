@@ -12,6 +12,3 @@ eureka:
       
 test: ConfigClient-dev-1.0
 
-management:
-  security:
-    enabled: false #关闭验证
