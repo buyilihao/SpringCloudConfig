@@ -11,3 +11,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka
       
 test: ConfigClient-dev-2.0
+
+management:
+  security:
+    enabled: false
