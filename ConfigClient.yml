@@ -14,4 +14,4 @@ test: ConfigClient-dev-2.0
 
 management:
   security:
-    enabled: false
+    enabled: false #关闭验证
