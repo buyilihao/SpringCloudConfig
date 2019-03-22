@@ -1,9 +1,9 @@
 server:
-  port: 8799
+  port: 8800
 
 spring:
   application:
-    name: config-server
+    name: config-client
 
 eureka:
   client:
